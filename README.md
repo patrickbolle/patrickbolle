@@ -1,4 +1,3 @@
-### Patrick Bollenbach
 Shopify app developer focused on building useful tools for e-commerce businesses.
 
 Current projects I'm working on:
