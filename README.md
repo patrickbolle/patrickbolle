@@ -1,7 +1,5 @@
 Shopify app developer focused on building useful tools for e-commerce businesses.
 
-Living in Kitchener, Canada right now - but spend most of my time abroad throughout the year.
-
 Current projects I'm working on:
 - [Recipe Kit (Shopify App)](https://apps.shopify.com/recipe-kit?source=gh_profile)
 - [Product Waiting Lists (Shopify App)](https://apps.shopify.com/product-waiting-lists?source=gh_profile)
